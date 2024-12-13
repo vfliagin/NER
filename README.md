@@ -1,2 +1,2 @@
 # NER
-Rule-based named entity recognition
+Репозиторий содержит jupyter notebook с кодом для rule-based распознавания сущностей.
